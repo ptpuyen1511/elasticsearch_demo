@@ -3,7 +3,7 @@ This is my demo of learning Elasticsearch client in Python base on tutorial at [
 
 My notebook nclude:
 
-* Step 1: Collect data related to tax codes from the page: https://hosocongty.vn/
+* Step 1: Collect data related to tax codes from the web: https://hosocongty.vn/
 
 * Step 2: Store data with Elasticsearch
 
