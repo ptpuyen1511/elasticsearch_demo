@@ -1,7 +1,7 @@
 # elasticsearch_demo
 This is my demo of learning Elasticsearch client in Python base on tutorial at [Getting started with Elasticsearch in Python](http://blog.adnansiddiqi.me/getting-started-with-elasticsearch-in-python/) 
 
-My notebook nclude:
+My notebook include:
 
 * Step 1: Collect data related to tax codes from the web: https://hosocongty.vn/
 
